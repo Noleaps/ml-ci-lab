@@ -1,0 +1,5 @@
+scikit-learn==(versionscikit-learn)
+pandas==(versionpandas)
+numpy==(versionnumpy)
+joblib==(versionjoblib)
+pytest==(versionpytest)
