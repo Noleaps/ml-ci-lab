@@ -1,5 +1,5 @@
-scikit-learn==(versionscikit-learn)
-pandas==(versionpandas)
-numpy==(versionnumpy)
-joblib==(versionjoblib)
-pytest==(versionpytest)
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.4.6
+joblib==1.6.0
+pytest==8.4.2
